@@ -1,5 +1,6 @@
 wait(2)
-if game.PlaceId == 10449761463 then
+if game.PlaceId == "10449761463", "11815767793", "9391468976"
+then
 --[ MultiLock Script | Updated To GUI, Released Dec 2021 | Working ]--
 --Instances:
 local Date = 25
