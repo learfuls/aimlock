@@ -111,6 +111,7 @@ local Playing = {
 	Duels = 6751371363;
 	TheHood = 4753520418;
 	Arsenal = 286090429;
+    The Strongest Battlegrounds = 10449761463;
 }
 
 HeadHunterGUI.Name = Request:GenerateGUID()
