@@ -111,7 +111,9 @@ local Playing = {
 	Duels = 6751371363;
 	TheHood = 4753520418;
 	Arsenal = 286090429;
-    The Strongest Battlegrounds = 10449761463;
+	The Strongest Battlegrounds = 10449761463;
+	Ultimate Battlegrounds = 11815767793;
+	Jujutsu Shenanigans = 9391468976;
 }
 
 HeadHunterGUI.Name = Request:GenerateGUID()
