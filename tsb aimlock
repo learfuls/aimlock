@@ -1,8 +1,6 @@
 wait(2)
-if game.PlaceId == "10449761463", "11815767793", "9391468976"
-then
---[ MultiLock Script | Updated To GUI, Released Dec 2021 | Working ]--
---Instances:
+if game.PlaceId == 10449761463 or game.PlaceId == 11815767793 or game.PlaceId == 9391468976 then
+    --[ MultiLock Script | Updated To GUI, Released Dec 2021 | Working ]
 local Date = 25
 local UpdateVersion = 1.5
 local CreatorName = "nwrds"
@@ -112,9 +110,9 @@ local Playing = {
 	Duels = 6751371363;
 	TheHood = 4753520418;
 	Arsenal = 286090429;
-	The Strongest Battlegrounds = 10449761463;
-	Ultimate Battlegrounds = 11815767793;
-	Jujutsu Shenanigans = 9391468976;
+	TSB = 10449761463;
+	UBG = 11815767793;
+	JJS = 9391468976;
 }
 
 HeadHunterGUI.Name = Request:GenerateGUID()
