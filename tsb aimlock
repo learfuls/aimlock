@@ -1,5 +1,5 @@
 wait(2)
-if game.PlaceId == 10449761463 or game.PlaceId == 11815767793 or game.PlaceId == 9391468976 then
+if game.PlaceId == 10449761463 or game.PlaceId == 11815767793 or game.PlaceId == 9391468976 or game.PlaceId == 100400297022629 then
     --[ MultiLock Script | Updated To GUI, Released Dec 2021 | Working ]
 local Date = 25
 local UpdateVersion = 1.5
